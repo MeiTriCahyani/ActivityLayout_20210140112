@@ -3,4 +3,8 @@
     <string name="nama">Wikipedia</string>
     <string name="html">https://www.wikipedia.or</string>
     <string name="qrcode">Please Scan Me</string>
+    <string name="foto">Pilih Foto Lainnya</string>
+    <string name="name">Enter Your Name</string>
+    <string name="hp">Enter Your Phone Number</string>
+    <string name="almt">Enter Your Address</string>
 </resources>
